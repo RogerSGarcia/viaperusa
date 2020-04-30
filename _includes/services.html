@@ -1,0 +1,21 @@
+<!-- Service Start -->
+<section id="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>Store Services</h2>
+        <p>Via Perusa offers multiple services...</p>
+      </div>
+    </div>
+    <div class="row">
+      {% for service in site.data.services %}
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <img src="{{ service.image }}" alt="Img">
+          <h4>{{ service.title }}</h4>
+          <p>{{ service.description }}</p>
+        </div>
+      </div>
+      {% endfor %}
+  </div>
+</section>

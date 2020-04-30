@@ -1,0 +1,36 @@
+<!-- Inventory Start -->
+<section id="inventory-work">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="block">
+              <div class="inventory-menu">
+                <ul>
+                    <li class="filter" data-filter="all">Everything</li>
+                    <li class="filter" data-filter=".SanRoque">San Roque</li>
+                    <li class="filter" data-filter=".Turrones">Turrones</li>
+                    <li class="filter" data-filter=".PeruFutbol">Peru Futbol</li>
+                </ul>
+              </div>
+              <div class="inventory-content">
+                <ul id="inventory-content-active">
+                  {% for project in site.data.productos %}
+                  <li class="mix {{ project.tags }}">
+                    <a>
+                      <div class="inventory-img">
+                        <img src="{{ project.image }}" alt="">
+                      </div>
+                      <div class="title">
+                          <h2>{{ project.title }}</h2>
+                          <p>{{ project.property }}</p>
+                      </div>
+                    </a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</section>

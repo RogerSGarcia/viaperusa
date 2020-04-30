@@ -1,0 +1,11 @@
+- image: "img/250x250_taxes.png"
+  title: "Taxes & Notary Services"
+  description: "When you need a notary public or need information, initial consulation regarding Tax preparation."
+
+- image: "img/250x250_ria_services.png"
+  title: "Send Money with Ria"
+  description: "A Ria agent at your service! Send money with Ria Envia."
+
+- image: "img/250x250_peru_products.png"
+  title: "Peruvian Products"
+  description: "A variety of Peruvian products."

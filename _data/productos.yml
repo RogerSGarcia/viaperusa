@@ -1,0 +1,19 @@
+- image: "img/productos/sanroques/sanroques_thumbnail.jpg"
+  title: "Magia y Amor"
+  property: "San Roque"
+  tags: "SanRoque"
+
+- image: "img/productos/sanroques/sanroques2_thumbnail.jpg"
+  title: "Delicia y Pasion"
+  property: "San Roque"
+  tags: "SanRoque"
+
+- image: "img/productos/seleccion/camisetas_thumbnail.jpeg"
+  title: "Camisetas"
+  property: "Small, Medium, Large"
+  tags: "PeruFutbol"
+
+- image: "img/productos/turrones/turrones_thumbnail.jpg"
+  title: "San Jose Turrones"
+  property: "Turrones (0.5 lbs y 1.1 lbs)"
+  tags: "Turrones"
