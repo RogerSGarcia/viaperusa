@@ -18,8 +18,8 @@ email: viaperusa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Via Perusa offers a variety of peruvian products and services
     to all customers, in particular to customers in surounding areas of Elizabeth.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://viaperusa.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/viaperusa" # the subpath of your site, e.g. /blog
+url: "https://viaperusa.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
