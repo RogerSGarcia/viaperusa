@@ -1,11 +1,23 @@
-- image: "img/250x250_taxes.png"
-  title: "Taxes & Notary Services"
-  description: "When you need a notary public or need information, initial consulation regarding Tax preparation."
+- image: "img/250x250_partners.png"
+  title: "✔ Additional Services through Trusted Partners"
+  description: "Consulting, notaría, taxes, traducciones, asesorías y más."
 
 - image: "img/250x250_ria_services.png"
-  title: "Send Money with Ria"
-  description: "A Ria agent at your service! Send money with Ria Envia."
+  title: "✔ International Money Transfers via RIA"
+  description: "Envía dinero de forma segura a tus seres queridos en todo el mundo."
 
 - image: "img/250x250_peru_products.png"
-  title: "Peruvian Products"
-  description: "A variety of Peruvian products."
+  title: "✔ Authenic Peruvian Goods"
+  description: "traditional and modern Peruvian items — jerseys, crafts, gifts, and more."
+
+- image: "img/250x250_travel.png"
+  title: "✔ Luggage Shipping to Peru"
+  description: "Envía maletas con viajeros confiables — rápido y seguro."
+
+- image: "img/250x250_dtf_tshirts.png"
+  title: "✔ Custom DTF T-Shirts"
+  description: "High-quality direct-to-film prints — vibrant colors and lasting designs for any occasion."
+
+- image: "img/250x250_graphic_design.png"
+  title: "✔ Graphic Design Services"
+  description: "Creative designs tailored to your brand — logos, flyers, social media, and more."
